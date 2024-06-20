@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "переделка", "переделка\переделка.csproj", "{06E6C414-2EF3-4CE3-BE67-B542ED8754CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06E6C414-2EF3-4CE3-BE67-B542ED8754CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06E6C414-2EF3-4CE3-BE67-B542ED8754CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06E6C414-2EF3-4CE3-BE67-B542ED8754CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06E6C414-2EF3-4CE3-BE67-B542ED8754CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BEF8570-5B0A-415B-BFDB-8773CBAD6727}
+	EndGlobalSection
+EndGlobal
